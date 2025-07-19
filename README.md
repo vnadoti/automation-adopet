@@ -6,20 +6,20 @@ Este projeto utiliza Cypress para testes End-to-End (E2E), validando tanto a API
 
 ## 🚀 Tecnologias Utilizadas
 
-Cypress v14.5.2 (Testes E2E - UI + API)
-Node.js v22.17.1
-Mochawesome para relatório
+- Cypress v14.5.2 (Testes E2E - UI + API)
+- Node.js v22.17.1
+- Mochawesome para relatório
 
 ## 🛠 Configurando o Ambiente de Testes
 
 1. Clone o repositório:
-   `git clone https://github.com/brenda-olifranco/Adopet.git`
+- `git clone https://github.com/brenda-olifranco/Adopet.git`
 
 2. Acesse o diretório do projeto:
-   `cd automation-adopet`
+-  `cd automation-adopet`
 
 3. Instale as dependências:
-   `npm install`
+-  `npm install`
 
 ## 📁 Estrutura do Projeto
 
@@ -54,7 +54,7 @@ cypress/
 ___ 
 
 ##  Realizado por
-📅 **Data de Execução:** 18 de Julho de 2025  
-🧪 **Tipo de Teste:** Automatizado  
-👤**Testador**: Victor Nadoti
-🌐 **Sistema Testado:** Adopet
+- 📅 **Data de Execução:** 18 de Julho de 2025  
+- 🧪 **Tipo de Teste:** Automatizado  
+- 👤**Testador**: Victor Nadoti
+- 🌐 **Sistema Testado:** Adopet
