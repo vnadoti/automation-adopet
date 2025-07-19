@@ -1,0 +1,19 @@
+{ 
+  "usuarios": [
+     { 
+      "name": "Victor Henrique",
+      "email": "vnado@gmail.com.br",
+      "password": "Senha123"
+    }, 
+    { 
+      "name":  "Joseph Stan",
+      "email": "joshppso@gmail.com",
+      "password": "Senha123234"
+    },
+    { 
+      "name": "Ana Juana",
+      "email": "anaju@com",
+      "password": "senha"
+    }
+    ]
+}
